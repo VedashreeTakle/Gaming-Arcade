@@ -49,11 +49,5 @@ To run the arcade prototype locally, follow these steps:
 ## Contributing
 We welcome contributions to enhance this arcade prototype. Feel free to fork the repository, make improvements, and submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-## Acknowledgments
-Special thanks to the Pygame community and Python developers for their amazing support and resources.
-
 ---
 Explore our gaming arcade and enjoy an assortment of fun games all in one place!
